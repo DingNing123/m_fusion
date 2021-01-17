@@ -1,0 +1,134 @@
+1.
+
+
+
+####################
+Fold 1:
+Weighted Precision: 0.7683413916333823  Weighted Recall: 0.7681159420289855  Weighted F score: 0.7680672268907562
+best_epoch:18   best_acc:0.7681159420289855
+Fold 2:
+Weighted Precision: 0.7676724137931034  Weighted Recall: 0.7608695652173914  Weighted F score: 0.7593404851239234
+best_epoch:4   best_acc:0.7608695652173914
+Fold 3:
+Weighted Precision: 0.7166991552956465  Weighted Recall: 0.7101449275362319  Weighted F score: 0.707936507936508
+best_epoch:8   best_acc:0.7101449275362319
+Fold 4:
+Weighted Precision: 0.7230603448275862  Weighted Recall: 0.717391304347826  Weighted F score: 0.7155842096919094
+best_epoch:2   best_acc:0.717391304347826
+Fold 5:
+Weighted Precision: 0.734295415959253  Weighted Recall: 0.7318840579710145  Weighted F score: 0.7311924190576468
+best_epoch:25   best_acc:0.7318840579710145
+####################
+Avg :
+Weighted Precision: 0.742  Weighted Recall: 0.738  Weighted F score: 0.736
+
+Process finished with exit code 0
+
+
+
+
+2.
+####################
+Fold 1:
+Weighted Precision: 0.7555555555555554  Weighted Recall: 0.7536231884057971  Weighted F score: 0.7531565656565655
+best_epoch:20   best_acc:0.7536231884057971
+Fold 2:
+Weighted Precision: 0.7489388794567063  Weighted Recall: 0.7463768115942029  Weighted F score: 0.7457225585680443
+best_epoch:6   best_acc:0.7463768115942029
+Fold 3:
+Weighted Precision: 0.7410412440838405  Weighted Recall: 0.7246376811594203  Weighted F score: 0.7198717948717949
+best_epoch:30   best_acc:0.7246376811594203
+Fold 4:
+Weighted Precision: 0.6958166911919277  Weighted Recall: 0.6956521739130435  Weighted F score: 0.6955882352941177
+best_epoch:5   best_acc:0.6956521739130435
+Fold 5:
+Weighted Precision: 0.7017543859649122  Weighted Recall: 0.6956521739130435  Weighted F score: 0.6933333333333334
+best_epoch:7   best_acc:0.6956521739130435
+####################
+Avg :
+Weighted Precision: 0.729  Weighted Recall: 0.723  Weighted F score: 0.722
+
+Process finished with exit code 0
+
+3.
+
+
+
+dump results  into  /m_fusion_data/output/lf_dnn.json
+####################
+Fold 1:
+Weighted Precision: 0.7409523809523809  Weighted Recall: 0.7391304347826086  Weighted F score: 0.7386363636363634
+best_epoch:12   best_acc:0.7391304347826086
+Fold 2:
+Weighted Precision: 0.734295415959253  Weighted Recall: 0.7318840579710145  Weighted F score: 0.7311924190576468
+best_epoch:40   best_acc:0.7318840579710145
+Fold 3:
+Weighted Precision: 0.7331081081081081  Weighted Recall: 0.7318840579710145  Weighted F score: 0.7315316262684683
+best_epoch:25   best_acc:0.7318840579710145
+Fold 4:
+Weighted Precision: 0.6887626262626263  Weighted Recall: 0.6884057971014492  Weighted F score: 0.6882584712371945
+best_epoch:2   best_acc:0.6884057971014492
+Fold 5:
+Weighted Precision: 0.7039695945945945  Weighted Recall: 0.7028985507246377  Weighted F score: 0.702508018297492
+best_epoch:7   best_acc:0.7028985507246377
+####################
+Avg :
+Weighted Precision: 0.720  Weighted Recall: 0.719  Weighted F score: 0.718
+
+Process finished with exit code 0
+
+
+4.
+
+####################
+Fold 1:
+Weighted Precision: 0.7319327731092438  Weighted Recall: 0.7318840579710145  Weighted F score: 0.731869978469779
+best_epoch:4   best_acc:0.7318840579710145
+Fold 2:
+Weighted Precision: 0.7393315114568005  Weighted Recall: 0.7391304347826086  Weighted F score: 0.7390756302521008
+best_epoch:28   best_acc:0.7391304347826086
+Fold 3:
+Weighted Precision: 0.6983180753672557  Weighted Recall: 0.6956521739130435  Weighted F score: 0.6946259220231822
+best_epoch:15   best_acc:0.6956521739130435
+Fold 4:
+Weighted Precision: 0.7409523809523809  Weighted Recall: 0.7391304347826086  Weighted F score: 0.7386363636363634
+best_epoch:27   best_acc:0.7391304347826086
+Fold 5:
+Weighted Precision: 0.7263492063492063  Weighted Recall: 0.7246376811594203  Weighted F score: 0.7241161616161617
+best_epoch:13   best_acc:0.7246376811594203
+####################
+Avg :
+Weighted Precision: 0.727  Weighted Recall: 0.726  Weighted F score: 0.726
+100%|██████████| 5/5 [00:00<00:00, 313.34it/s]
+
+Process finished with exit code 0
+
+
+
+5.
+
+dump results  into  /m_fusion_data/output/lf_dnn.json
+####################
+Fold 1:
+Weighted Precision: 0.7613636363636364  Weighted Recall: 0.7608695652173914  Weighted F score: 0.7607565011820332
+best_epoch:20   best_acc:0.7608695652173914
+Fold 2:
+Weighted Precision: 0.7464285714285716  Weighted Recall: 0.7463768115942029  Weighted F score: 0.7463634931470883
+best_epoch:18   best_acc:0.7463768115942029
+Fold 3:
+Weighted Precision: 0.7316439246263807  Weighted Recall: 0.7246376811594203  Weighted F score: 0.7225396825396825
+best_epoch:22   best_acc:0.7246376811594203
+Fold 4:
+Weighted Precision: 0.7323232323232324  Weighted Recall: 0.7318840579710145  Weighted F score: 0.7317572892040978
+best_epoch:1   best_acc:0.7318840579710145
+Fold 5:
+Weighted Precision: 0.7676724137931034  Weighted Recall: 0.7608695652173914  Weighted F score: 0.7593404851239234
+best_epoch:17   best_acc:0.7608695652173914
+####################
+Avg :
+Weighted Precision: 0.748  Weighted Recall: 0.745  Weighted F score: 0.744
+
+Process finished with exit code 0
+
+
+

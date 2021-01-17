@@ -1,0 +1,40 @@
+{
+    "1_60": {
+        "utterance": "It's just a privilege to watch your mind at work.",
+        "speaker": "SHELDON",
+        "context": [
+            "I never would have identified the fingerprints of string theory in the aftermath of the Big Bang.",
+            "My apologies. What's your plan?"
+        ],
+        "context_speakers": [
+            "LEONARD",
+            "SHELDON"
+        ],
+        "show": "BBT",
+        "sarcasm": true
+    },
+    "1_70": {
+        "utterance": "I don't think I'll be able to stop thinking about it.",
+        "speaker": "PENNY",
+        "context": [
+            "This is one of my favorite places to kick back after a quest. They have a great house ale.",
+            "Cool tiger.",
+            "Yeah, I've had him since level ten.",
+            "His name is Buttons.",
+            "Anyway, if you had your own game character we could hang out, maybe go on a quest.",
+            "That sounds interesting.",
+            "You'll think about it?"
+        ],
+        "context_speakers": [
+            "HOWARD",
+            "PENNY",
+            "HOWARD",
+            "HOWARD",
+            "HOWARD",
+            "PENNY",
+            "HOWARD"
+        ],
+        "show": "BBT",
+        "sarcasm": true
+    }
+}

@@ -1,0 +1,99 @@
+1. audio is use relu
+
+1
+####################
+Fold 1:
+Weighted Precision: 0.5740660233742525  Weighted Recall: 0.5786516853932584  Weighted F score: 0.5754703988865038
+Fold 2:
+Weighted Precision: 0.5880593045675154  Weighted Recall: 0.5814606741573034  Weighted F score: 0.5834448102001714
+Fold 3:
+Weighted Precision: 0.6239114336098369  Weighted Recall: 0.6095505617977528  Weighted F score: 0.6114877471409996
+Fold 4:
+Weighted Precision: 0.6098809406236988  Weighted Recall: 0.6095505617977528  Weighted F score: 0.6097109752294869
+Fold 5:
+Weighted Precision: 0.5983833983031414  Weighted Recall: 0.5955056179775281  Weighted F score: 0.596646499567848
+####################
+Avg :
+Weighted Precision: 0.599  Weighted Recall: 0.595  Weighted F score: 0.595
+
+Process finished with exit code 0
+
+2
+####################
+Fold 1:
+Weighted Precision: 0.6141084415241292  Weighted Recall: 0.6039325842696629  Weighted F score: 0.6060542561261311
+Fold 2:
+Weighted Precision: 0.6011662020524182  Weighted Recall: 0.6039325842696629  Weighted F score: 0.602164986730859
+Fold 3:
+Weighted Precision: 0.6050339617850569  Weighted Recall: 0.6123595505617978  Weighted F score: 0.6036531875262874
+Fold 4:
+Weighted Precision: 0.5476264696588785  Weighted Recall: 0.5365168539325843  Weighted F score: 0.5389976139265221
+Fold 5:
+Weighted Precision: 0.6183759662124472  Weighted Recall: 0.6123595505617978  Weighted F score: 0.6141395322173814
+####################
+Avg :
+Weighted Precision: 0.597  Weighted Recall: 0.594  Weighted F score: 0.593
+
+Process finished with exit code 0
+
+
+3
+####################
+Fold 1:
+Weighted Precision: 0.6207224162676117  Weighted Recall: 0.6095505617977528  Weighted F score: 0.6116404141562825
+Fold 2:
+Weighted Precision: 0.6042714227526315  Weighted Recall: 0.5955056179775281  Weighted F score: 0.5976271594452705
+Fold 3:
+Weighted Precision: 0.582939437297053  Weighted Recall: 0.5870786516853933  Weighted F score: 0.5842305928227127
+Fold 4:
+Weighted Precision: 0.6197219860932758  Weighted Recall: 0.6095505617977528  Weighted F score: 0.6116421390179589
+Fold 5:
+Weighted Precision: 0.5941887219977108  Weighted Recall: 0.5955056179775281  Weighted F score: 0.594772553725319
+####################
+Avg :
+Weighted Precision: 0.604  Weighted Recall: 0.599  Weighted F score: 0.600
+
+Process finished with exit code 0
+
+
+4.
+
+####################
+Fold 1:
+Weighted Precision: 0.6295151843759562  Weighted Recall: 0.6264044943820225  Weighted F score: 0.6275621926266288
+Fold 2:
+Weighted Precision: 0.6199197073225535  Weighted Recall: 0.6264044943820225  Weighted F score: 0.6176359676919401
+Fold 3:
+Weighted Precision: 0.5903809917488472  Weighted Recall: 0.5870786516853933  Weighted F score: 0.5883582129031162
+Fold 4:
+Weighted Precision: 0.6324892250604457  Weighted Recall: 0.6039325842696629  Weighted F score: 0.6034168999751124
+Fold 5:
+Weighted Precision: 0.5786516853932584  Weighted Recall: 0.5786516853932584  Weighted F score: 0.5786516853932584
+####################
+Avg :
+Weighted Precision: 0.610  Weighted Recall: 0.604  Weighted F score: 0.603
+
+Process finished with exit code 0
+
+
+5.
+####################
+Fold 1:
+Weighted Precision: 0.6079330650095308  Weighted Recall: 0.6039325842696629  Weighted F score: 0.605360967017209
+Fold 2:
+Weighted Precision: 0.6216921851017974  Weighted Recall: 0.6039325842696629  Weighted F score: 0.605519144587718
+Fold 3:
+Weighted Precision: 0.6151599403806467  Weighted Recall: 0.6123595505617978  Weighted F score: 0.6134528954191876
+Fold 4:
+Weighted Precision: 0.5975620669308533  Weighted Recall: 0.5926966292134831  Weighted F score: 0.5943458150856931
+Fold 5:
+Weighted Precision: 0.5610683247881896  Weighted Recall: 0.5617977528089888  Weighted F score: 0.561415537959234
+####################
+Avg :
+Weighted Precision: 0.601  Weighted Recall: 0.595  Weighted F score: 0.596
+
+Process finished with exit code 0
+
+
+
+
