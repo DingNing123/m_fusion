@@ -27,3 +27,13 @@ context: text context
 spekaer: speaker one-hot identification
  
  
+# reference
+ 
+https://github.com/soujanyaporia/MUStARD
+
+https://github.com/thuiar/MMSA
+
+
+
+
+ 
